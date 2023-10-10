@@ -1,1 +1,5 @@
-#Java 
+---
+tags:
+  - "#Java"
+  - IDE
+---

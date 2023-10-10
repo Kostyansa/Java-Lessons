@@ -1,7 +1,6 @@
 ---
 tags:
-  - Computer Science
-  - Java
+  - Introduction
 ---
 0. [[Введение]]
 1. [[Информатика и Алгоритмика]]
