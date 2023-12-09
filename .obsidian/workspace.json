@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "ab177899f98db384",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c758828ec12a00d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71eb9b54e920e4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/Строки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a71e832d44d5a1e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a9b1b287051e427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a42b7d685db956bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99e16661e49da040",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aed019977d76b789",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cfb8584ad9315dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3e08dc5f953ffac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "199e4b1001b658f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Java/Строки.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "102d40983c73b9fd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Java/Строки.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "807144dace3066c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6f348f7c4deb2be1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/Строки.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f71eb9b54e920e4c",
+  "lastOpenFiles": [
+    "Java/Условия, конструкция if-else.md",
+    "Java/Введение в Java.md",
+    "Java/StringBuilder.md",
+    "Java/Строки.md",
+    "Java/Циклы, while, for, do-while.md",
+    "Java/Часто встречающиеся ошибки.md",
+    "LICENSE.md",
+    "LICENSE-RU.md",
+    "Введение.md",
+    "Примеры потенциально интересных тем для различных специальностей.md",
+    "Pasted image 20231208140304.png",
+    "Pasted image 20231209004521.png",
+    "Pasted image 20231209005914.png",
+    "Pasted image 20231209012938.png",
+    "Java/Эквивалентность различных типов циклов.md",
+    "Java/Конструкция Switch-case.md",
+    "Java/Ввод, вывод, переменные.md",
+    "Теория/Информатика и Алгоритмика.md",
+    "Теория/Типы и Структуры данных.md",
+    "Pasted image 20231208132820.png",
+    "Pasted image 20231208095759.png",
+    "Диаграмма без названия.drawio",
+    "Теория/Блок-схемы.md"
+  ]
+}

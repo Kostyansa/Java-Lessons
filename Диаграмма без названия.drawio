@@ -1,0 +1,41 @@
+<mxfile host="app.diagrams.net" modified="2023-12-08T05:51:58.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="A7LFi1rQzFZc_bYZ71_m" version="22.1.7" type="device">
+  <diagram name="Страница — 1" id="uMtTfhKd5kmAniqO2vqm">
+    <mxGraphModel dx="1219" dy="865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="1" source="kCbxQKkioTwpVAvSzlJl-1" target="kCbxQKkioTwpVAvSzlJl-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="kCbxQKkioTwpVAvSzlJl-1" target="kCbxQKkioTwpVAvSzlJl-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15" y="58" />
+              <mxPoint x="-156" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="kCbxQKkioTwpVAvSzlJl-1" target="kCbxQKkioTwpVAvSzlJl-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="15" y="58" />
+              <mxPoint x="186" y="58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-1" value="Строковые типы Java" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-17" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-2" value="String" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-216" y="82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-3" value="StringBuilder" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="82" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kCbxQKkioTwpVAvSzlJl-4" value="StringBuffer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="126" y="82" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
