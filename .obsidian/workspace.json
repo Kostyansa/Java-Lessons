@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ccef686fe0c15cb8",
+        "id": "4c758828ec12a00d",
         "type": "tabs",
         "children": [
-          {
-            "id": "be6dccae38eecf03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Теория/Информатика и Алгоритмика.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "f71eb9b54e920e4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Название.md",
+                "file": "Строки.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Название.md",
+                "file": "Строки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Название.md",
+                "file": "Строки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Название.md"
+                "file": "Строки.md"
               }
             }
           }
@@ -161,8 +148,25 @@
   },
   "active": "f71eb9b54e920e4c",
   "lastOpenFiles": [
+    "Java/Эквивалентность различных типов циклов.md",
+    "Java/Циклы, while, for, do-while.md",
+    "Java/Часто встречающиеся ошибки.md",
+    "Строки.md",
+    "Введение.md",
+    "Java/Условия, конструкция if-else.md",
+    "Java/Конструкция Switch-case.md",
+    "Java/Ввод, вывод, переменные.md",
+    "Java/Введение в Java.md",
     "Теория/Информатика и Алгоритмика.md",
-    "Название.md",
-    "Теория/Блок-схемы.md"
+    "Pasted image 20231209012938.png",
+    "Pasted image 20231209005914.png",
+    "Pasted image 20231209004521.png",
+    "Pasted image 20231208140304.png",
+    "Теория/Типы и Структуры данных.md",
+    "Pasted image 20231208132820.png",
+    "Pasted image 20231208095759.png",
+    "Диаграмма без названия.drawio",
+    "Теория/Блок-схемы.md",
+    "Примеры потенциально интересных тем для различных специальностей.md"
   ]
 }
