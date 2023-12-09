@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Строки.md",
+                "file": "Java/Строки.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Строки.md",
+                "file": "Java/Строки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Строки.md",
+                "file": "Java/Строки.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Строки.md"
+                "file": "Java/Строки.md"
               }
             }
           }
@@ -148,25 +148,28 @@
   },
   "active": "f71eb9b54e920e4c",
   "lastOpenFiles": [
-    "Java/Эквивалентность различных типов циклов.md",
+    "Java/Условия, конструкция if-else.md",
+    "Java/Введение в Java.md",
+    "Java/StringBuilder.md",
+    "Java/Строки.md",
     "Java/Циклы, while, for, do-while.md",
     "Java/Часто встречающиеся ошибки.md",
-    "Строки.md",
+    "LICENSE.md",
+    "LICENSE-RU.md",
     "Введение.md",
-    "Java/Условия, конструкция if-else.md",
+    "Примеры потенциально интересных тем для различных специальностей.md",
+    "Pasted image 20231208140304.png",
+    "Pasted image 20231209004521.png",
+    "Pasted image 20231209005914.png",
+    "Pasted image 20231209012938.png",
+    "Java/Эквивалентность различных типов циклов.md",
     "Java/Конструкция Switch-case.md",
     "Java/Ввод, вывод, переменные.md",
-    "Java/Введение в Java.md",
     "Теория/Информатика и Алгоритмика.md",
-    "Pasted image 20231209012938.png",
-    "Pasted image 20231209005914.png",
-    "Pasted image 20231209004521.png",
-    "Pasted image 20231208140304.png",
     "Теория/Типы и Структуры данных.md",
     "Pasted image 20231208132820.png",
     "Pasted image 20231208095759.png",
     "Диаграмма без названия.drawio",
-    "Теория/Блок-схемы.md",
-    "Примеры потенциально интересных тем для различных специальностей.md"
+    "Теория/Блок-схемы.md"
   ]
 }
