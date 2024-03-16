@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Циклы, while, for, do-while.md",
+                "file": "Java/IntelliJ Idea.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Java/Циклы, while, for, do-while.md",
+                "file": "Java/IntelliJ Idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Java/Циклы, while, for, do-while.md",
+                "file": "Java/IntelliJ Idea.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Java/Циклы, while, for, do-while.md"
+                "file": "Java/IntelliJ Idea.md"
               }
             }
           }
@@ -148,11 +148,22 @@
   },
   "active": "f71eb9b54e920e4c",
   "lastOpenFiles": [
+    "Java/Эквивалентность различных типов циклов.md",
+    "Java/Часто встречающиеся ошибки.md",
+    "Java/Циклы, while, for, do-while.md",
+    "Java/Условия, конструкция if-else.md",
     "Java/Строки.md",
+    "Java/Конструкция Switch-case.md",
+    "Java/Ввод, вывод, переменные.md",
     "Java/Введение в Java.md",
     "Java/StringBuilder.md",
+    "Pictures/QR-код RGB игра.png",
+    "Полезное/OnlineGDB.md",
+    "Java/IntelliJ Idea.md",
     "index.md",
-    "Java/Условия, конструкция if-else.md",
+    "Полезное/Языковые модели/Использование крупных языковых моделей в профессиональной деятельности для специалистов не из сферы ИТ.md",
+    "Полезное/Языковые модели/Шаблон.md",
+    "Полезное/Языковые модели/Yandex/YandexGPT 2.md",
     "Диаграмма без названия.drawio",
     "Pasted image 20231209012938.png",
     "Pasted image 20231209005914.png",
@@ -160,15 +171,10 @@
     "Pasted image 20231208140304.png",
     "Pasted image 20231208132820.png",
     "Pasted image 20231208095759.png",
-    "Java/Циклы, while, for, do-while.md",
-    "Java/Часто встречающиеся ошибки.md",
     "LICENSE.md",
     "LICENSE-RU.md",
     "Введение.md",
     "Примеры потенциально интересных тем для различных специальностей.md",
-    "Java/Эквивалентность различных типов циклов.md",
-    "Java/Конструкция Switch-case.md",
-    "Java/Ввод, вывод, переменные.md",
     "Теория/Информатика и Алгоритмика.md",
     "Теория/Типы и Структуры данных.md",
     "Теория/Блок-схемы.md"
